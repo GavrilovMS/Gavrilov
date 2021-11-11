@@ -132,7 +132,7 @@ int main() {
     }
     cout << line[line.size() - 1].word << '\n';
 
-
+    system("pause");
 
     return 0;
 }
